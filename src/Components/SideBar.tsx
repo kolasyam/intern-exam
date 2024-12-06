@@ -8,7 +8,6 @@ import logo from "/images/logo.png";
 import ravi from "/images/ravikumar.jpeg";
 // import { BiLogOut } from "react-icons/bi";
 import { IoIosLogOut } from "react-icons/io";
-import Link from "next/link";
 const Sidebar = () => {
   const [isOpen, setIsOpen] = useState(false); // Sidebar toggle state for small screens
   const [active, setActive] = useState("Home");
