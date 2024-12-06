@@ -4,14 +4,14 @@ import { IoNotificationsOutline } from "react-icons/io5";
 import { GrLinkPrevious } from "react-icons/gr";
 import Image from "next/image";
 import client from "/images/client.png";
-import Sidebar from "@/Components/SideBar";
+// import Sidebar from "@/Components/SideBar";
 import Link from "next/link";
 
 const ClientDetails = () => {
   return (
     <div className="relative flex min-h-screen bg-gray-50">
       {/* Sidebar */}
-      <Sidebar />
+      {/* <Sidebar /> */}
 
       {/* Main Content */}
       <div className="flex-1">
