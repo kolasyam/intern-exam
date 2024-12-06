@@ -1,5 +1,4 @@
 import { useState } from "react";
-import { FaBars } from "react-icons/fa";
 import { AiOutlineHome, AiOutlineSetting } from "react-icons/ai";
 import { FiUsers } from "react-icons/fi";
 import Image from "next/image";
